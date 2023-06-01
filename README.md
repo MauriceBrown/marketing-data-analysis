@@ -4,9 +4,7 @@ This data is from iFood, a food delivery app in Brazil
 
 The data consists of 2240 rows of customer details (income, number of children, education etc) for customers selected for a marketing campaign. There is also a variable ("Response") indicating wether or not the customer accepted the offer from the campaign. The github repo and project brief are linked below.
 
-[GitHub repo](https://github.com/MauriceBrown/marketing-data-analysis)
-
-[Project brief and data dictionary](https://github.com/MauriceBrown/marketing-data-analysis/blob/main/iFood%20Data%20Analyst%20Case.pdf)
+[Full project brief and data dictionary](https://github.com/MauriceBrown/marketing-data-analysis/blob/main/iFood%20Data%20Analyst%20Case.pdf)
 
 [This Notebook](https://github.com/MauriceBrown/marketing-data-analysis/blob/main/iFood%20CRM.ipynb) is split into **four** sections:
 
