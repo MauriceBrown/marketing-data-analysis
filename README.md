@@ -8,7 +8,7 @@ The data consists of 2240 rows of customer details (income, number of children, 
 
 [Project brief and data dictionary](https://github.com/MauriceBrown/marketing-data-analysis/blob/main/iFood%20Data%20Analyst%20Case.pdf)
 
-This Notebook is split into **four** sections:
+[This Notebook](https://github.com/MauriceBrown/marketing-data-analysis/blob/main/iFood%20CRM.ipynb) is split into **four** sections:
 
 1. **Data import and cleansing**
     - Import data and remove missing values
@@ -23,3 +23,5 @@ This Notebook is split into **four** sections:
 4. **Frequency, recency, monetary value (FRM) analysis**
 
 There are "stream of consciousness" notes throughout the notebook to give an indication of the thought behind specific actions (data groupings, chart creation etc).
+
+[Click here to view the notebook](https://github.com/MauriceBrown/marketing-data-analysis/blob/main/iFood%20CRM.ipynb)
